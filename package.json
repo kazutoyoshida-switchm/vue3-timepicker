@@ -1,6 +1,6 @@
 {
   "name": "vue3-timepicker",
-  "version": "1.0.0-beta.2",
+  "version": "1.0.0-beta.3",
   "description": "A dropdown time picker (hour|minute|second) for Vue 3.x, with flexible time format support",
   "author": "Phoenix Wong <phoenixyfwong@gmail.com>",
   "scripts": {
@@ -72,6 +72,6 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/phoenixwong/vue3-timepicker.git"
+    "url": "git@github.com:kazutoyoshida-switchm/vue3-timepicker.git"
   }
 }
